@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: ms-persona
+Implementation-Version: 1.0
+Built-By: Navith
+Implementation-Vendor-Id: org.pe.vts
+Build-Jdk: 1.8.0_112
+Implementation-URL: http://projects.spring.io/spring-boot/ms-persona/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+

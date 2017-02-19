@@ -1,0 +1,13 @@
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\util\Constantes.java
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\repository\CategoriaDAO.java
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\Application.java
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\controller\CategoriaController.java
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\repository\ProductoRepository.java
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\controller\AbstractHandler.java
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\controller\ProductoController.java
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\model\Producto.java
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\repository\CategoriaRepository.java
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\config\MongoConfiguration.java
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\model\Categoria.java
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\controller\JsonMessageResult.java
+D:\Proyectos\BITEL\backEnd\ms-producto\src\main\java\org\pe\vts\swagger\SwaggerConfiguration.java

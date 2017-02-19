@@ -1,0 +1,14 @@
+# Spring properties
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      uri: mongodb://localhost/productos
+          
+# HTTP Server
+server:
+  address: 127.0.0.1
+  port: 5555   # HTTP (Tomcat) port
+  
+  
